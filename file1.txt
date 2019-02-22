@@ -1,2 +1,8 @@
+<<<<<<< HEAD
 this is modified by dev 1 in eclipse ide
 //idiot dev
+=======
+this is modified by dev 1 in eclipse ide
+now this ismodified by dev 2
+>>>>>>> branch 'master' of https://github.com/karnjyotish/FirstRepo.git
+now its final sol :)
