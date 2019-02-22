@@ -1,2 +1,8 @@
 this is working repo
+<<<<<<< HEAD
 now its edited by dev 1
+=======
+now its edited by dev 2
+>>>>>>> 85d8f8fd749f1fdd7cd91c1d601ce675a38bfad0
+
+ok final solution now save this
